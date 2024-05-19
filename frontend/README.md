@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Here is some UI and work shown in this repository
+#
+[Live Preview Project]()
+#
+## Project Details
+#
+Employee information add has been worked on this repository. Using the data get method from the backend to show in UI and using the data post method from the user to send backend data and show new data in UI.
+#
+### `Technology Use`
+#
+1. Node JS
+2. Express JS
+3. Middleware
+4. Nodemon
+5. MongoDB
+6. API
+7. React JS
+8. React Hooks
+9. HTML5
+10. CSS3
+11. Bootstrap5
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#
+### `Project UI`
+#
+![image](https://github.com/DeveloperOmarFaruk/node-react-mongo-crud-employee/assets/75971859/72d1533a-11a3-49a4-8019-a40061cc09fb)
+#
+![image](https://github.com/DeveloperOmarFaruk/node-react-mongo-crud-employee/assets/75971859/51857166-5f54-40e7-ad5f-9d6024725ef6)
+#
+![image](https://github.com/DeveloperOmarFaruk/node-react-mongo-crud-employee/assets/75971859/eaa8bca4-020f-4d31-b634-d3e73dafb6fc)
+#
+![image](https://github.com/DeveloperOmarFaruk/node-react-mongo-crud-employee/assets/75971859/e2661e79-57a8-4a09-a3bc-09464d6dd2cb)
+#
+![image](https://github.com/DeveloperOmarFaruk/node-react-mongo-crud-employee/assets/75971859/6848d39b-65f1-4c8e-b73d-9edc3de06a50)
+#
+![image](https://github.com/DeveloperOmarFaruk/node-react-mongo-crud-employee/assets/75971859/e470c494-40b3-4bc1-b4a9-a4329b9baa57)
+#
+![image](https://github.com/DeveloperOmarFaruk/node-react-mongo-crud-employee/assets/75971859/8dee977a-627f-4111-8a0e-62efdc0a6d6c)
+#
